@@ -33,7 +33,6 @@
         "flarum/approval": "*",
         "flarum/bbcode": "*",
         "flarum/emoji": "*",
-        "flarum/extension-manager": "*",
         "flarum/flags": "*",
         "flarum/lang-english": "*",
         "flarum-lang/chinese-simplified": "*",
